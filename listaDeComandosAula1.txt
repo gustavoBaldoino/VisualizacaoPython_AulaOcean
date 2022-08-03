@@ -1,0 +1,29 @@
+    1  pip freeze
+    2  flask --version
+    3  pip install flask
+    4  flask --version
+    5  pip freeze
+    6  pip freeze > requiriments.txt
+    7  pip install -r requiriments.txt
+    8  pip freeze
+    9  flask run
+   10  git -h
+   11  git status
+   12  flask run
+   13  pip inatall python-dotenv
+   14  pip install python-dotenv
+   15* 
+   16  pip freeze > requirimensts.txt
+   17  pip freeze > requiriments.txt
+   18  clear
+   19  git status
+   20  git add .
+   21  git commit -m "Aula Inicial"
+   22  git status
+   23  git push
+   24  git status
+   25  pwd
+   26  ls -l
+   27  ls -la
+   28  history
+   29  history > listaDeComandosAula1.txt
